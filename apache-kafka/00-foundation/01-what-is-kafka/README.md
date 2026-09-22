@@ -1,4 +1,4 @@
-# Topic #1 — What Is Apache Kafka?
+# 1 — What Is Apache Kafka?
 
 > **Goal:** Understand what Apache Kafka is, why it exists, how its basic architecture works, and build a working Producer → Kafka → Consumer pipeline locally.
 
