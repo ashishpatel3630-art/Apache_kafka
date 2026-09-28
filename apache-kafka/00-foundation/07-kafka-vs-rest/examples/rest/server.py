@@ -1,9 +1,4 @@
 
----
-
-# 9. `examples/rest/server.py`
-
-```python
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import json
 
