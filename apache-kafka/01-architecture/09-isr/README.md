@@ -3,7 +3,6 @@
 
 # 09-isr/README.md
 
-```markdown
 # Kafka ISR
 
 ISR stands for:
