@@ -8,7 +8,7 @@
 
 KRaft stands for:
 
-> Kafka Raft
+
 
 KRaft is the architecture Kafka uses to manage its own metadata using a Raft-based quorum.
 
