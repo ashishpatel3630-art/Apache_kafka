@@ -1,11 +1,4 @@
 
----
-
-# 10-controller/README.md
-
-```markdown
-# Kafka Controller
-
 The Kafka Controller is responsible for important cluster-level management tasks.
 
 Modern Kafka uses KRaft, where controller responsibilities are handled by Kafka's metadata quorum.
@@ -23,9 +16,7 @@ It can handle things such as:
 - Partition state
 - Replica assignments
 - Metadata changes
-
 ---
-
 ## 2. Controller in a Kafka Cluster
 
 Example:
