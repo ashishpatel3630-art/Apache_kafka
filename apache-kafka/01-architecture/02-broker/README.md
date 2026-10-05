@@ -1,11 +1,8 @@
 
 ---
-
 # 02-broker/README.md
-
 ```markdown
 # Kafka Broker
-
 A Kafka Broker is a Kafka server.
 
 It receives records from producers and serves records to consumers.
